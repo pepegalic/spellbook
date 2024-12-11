@@ -232,8 +232,7 @@ As a preview, you can do [things](https://docs.getdbt.com/reference/resource-pro
 - Write longer descriptions as code blocks using markdown.
 - Link to other models in your descriptions.
 - Add images / project logos from the repo into descriptions.
-- Use HTML in your description.
-
+- 
 ### DBT Resources:
 
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
